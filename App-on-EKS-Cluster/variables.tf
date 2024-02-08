@@ -27,5 +27,5 @@ variable "private-subnet2-cidr" {
 }
 
 variable "instance_type" {
-  default = "t2.medium"
+  default = "t2.micro"
 }
